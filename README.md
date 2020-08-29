@@ -1,8 +1,7 @@
 # skprojects
-skprojects
 #!/bin/bash
-sudo yum update -y
-yum install httpd -y
-echo "this is skprojects" > var/www/html/index.html
-service httpd start 
-chkconfig httpd on
+<h1>
+  <body> this is sk projects </body>
+</h1>  
+   
+  
