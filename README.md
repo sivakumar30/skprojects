@@ -1,7 +1,7 @@
 # skprojects
 #!/bin/bash
 <h1>
-  <body> this is sk projectsxxxx </body>
+  <body> this is sk projectsxxxxx </body>
 </h1>  
    
   
